@@ -79,7 +79,7 @@ _Looking for something else? Take a look at other [awesome lists](https://github
 - [Building with Gulp](https://www.smashingmagazine.com/2014/06/building-with-gulp/)
 - [Automate Your Tasks Easily with Gulp.js](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
 - [Gulp - The Vision, History, and Future of the Project](https://medium.com/@contrahacks/gulp-3828e8126466)
-- [Introduction to Gulp.js](http://stefanimhoff.de/tag/gulp/)
+- [Introduction to Gulp.js](https://github.com/kogakure/gulp-tutorial)
 - [Video: Learning Gulp](http://leveluptuts.com/tutorials/learning-gulp)
 - [Using Gulp to Inject Scripts and Styles Tags Directly into Your HTML](http://blog.johnnyreilly.com/2015/02/using-gulp-in-asp-net-instead-of-web-optimization.html)
 - [5 Lessons Learned Using Gulp.js](http://denbuzze.com/post/5-lessons-learned-using-gulpjs/)
